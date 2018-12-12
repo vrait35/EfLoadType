@@ -1,0 +1,13 @@
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\bin\Debug\LoadTypeLesson.exe.config
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\bin\Debug\LoadTypeLesson.exe
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\bin\Debug\LoadTypeLesson.pdb
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\bin\Debug\EntityFramework.dll
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\bin\Debug\EntityFramework.xml
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\obj\Debug\LoadTypeLesson.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\obj\Debug\LoadTypeLesson.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\obj\Debug\LoadTypeLesson.csproj.CopyComplete
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\obj\Debug\LoadTypeLesson.exe
+C:\Users\темирбулата\source\repos\LoadTypeLesson\LoadTypeLesson\obj\Debug\LoadTypeLesson.pdb
